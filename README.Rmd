@@ -46,6 +46,7 @@ The event will take place at [BioCity Turku](https://biocityturku.fi/), the same
 ## Schedule (Turku local time)
 
 Monday June 1st:
+
 * 09:00 - 10:30 = Project introductions, team formation, and planning
 * 10:30 - 11:00 = Break
 * 11:00 - 12:30 = Hacking
@@ -55,6 +56,7 @@ Monday June 1st:
 * 15:30 - 17:00 = Hacking
 
 Tuesday June 2nd:
+
 * 09:00 - 10:30 = Update on progress from the previous day, discussion if necessary
 * 10:30 - 11:00 = Break
 * 11:00 - 12:30 = Hacking

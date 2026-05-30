@@ -76,16 +76,26 @@ for details. Signs for rooms and locations will posted at the venue.
 
 ## Schedule (Turku local time)
 
-Monday June 1st: \* 09:00 - 10:30 = Project introductions, team
-formation, and planning \* 10:30 - 11:00 = Break \* 11:00 - 12:30 =
-Hacking \* 12:30 - 13:30 = Lunch \* 13:30 - 15:00 = Hacking \* 15:00 -
-15:30 = Break \* 15:30 - 17:00 = Hacking
+Monday June 1st:
 
-Tuesday June 2nd: \* 09:00 - 10:30 = Update on progress from the
-previous day, discussion if necessary \* 10:30 - 11:00 = Break \*
-11:00 - 12:30 = Hacking \* 12:30 - 13:30 = Lunch \* 13:30 - 15:00 =
-Hacking \* 15:00 - 15:30 = Break \* 15:30 - 17:00 = Presentations on
-projects
+- 09:00 - 10:30 = Project introductions, team formation, and planning
+- 10:30 - 11:00 = Break
+- 11:00 - 12:30 = Hacking
+- 12:30 - 13:30 = Lunch
+- 13:30 - 15:00 = Hacking
+- 15:00 - 15:30 = Break
+- 15:30 - 17:00 = Hacking
+
+Tuesday June 2nd:
+
+- 09:00 - 10:30 = Update on progress from the previous day, discussion
+  if necessary
+- 10:30 - 11:00 = Break
+- 11:00 - 12:30 = Hacking
+- 12:30 - 13:30 = Lunch
+- 13:30 - 15:00 = Hacking
+- 15:00 - 15:30 = Break
+- 15:30 - 17:00 = Presentations on projects
 
 ## Project Links
 
