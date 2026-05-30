@@ -3,9 +3,10 @@ EuroBioc 2026 Hackathon
 
 - [Introduction](#introduction)
 - [Documents and communication](#documents-and-communication)
-  - [Remote participation](#remote-participation)
+  - [Participation information](#participation-information)
   - [Location](#location)
-  - [Cloud compute resources](#cloud-compute-resources)
+  - [Schedule (Turku local time)](#schedule-turku-local-time)
+  - [Project Links](#project-links)
 - [Projects](#projects)
   - [R/CUDA bindings](#rcuda-bindings)
   - [Commandline executables for bioconductor functions and
@@ -31,31 +32,86 @@ supported.
 Participants will be expected to adhere to the [Bioconductor code of
 conduct](https://bioconductor.github.io/bioc_coc_multilingual/).
 
-If you are interested in participating, [please fill out this
-form](https://forms.gle/wX8bzq1jdtPuZ1yX6).
+A brief set of introductory slides are also can also be found
+[here](https://docs.google.com/presentation/d/15e7Q5pRZJ304kmuN3PHu_l3BrJeZJrCnHrrZZ-lx1fQ/edit?usp=sharing)
 
 # Documents and communication
 
 This README page will serve as a hub for documents, repos, and links
 associated with the event.
 
-## Remote participation
+## Participation information
 
-Information on remote participation will be included here.
+General microsoft teams links for hackathon wide introductions,
+announcements, and presentations:
+
+- June 1st:
+- Join:
+  <https://teams.microsoft.com/meet/360196994824944?p=fNRlY6l55f25xJuYiw>
+- Meeting ID: 360 196 994 824 944
+- Passcode: zU3Ct3oj
+- June 2nd:
+- Join:
+  <https://teams.microsoft.com/meet/348074563111143?p=dCO6hXKAPVjoVOmEGj>
+- Meeting ID: 348 074 563 111 143
+- Passcode: wz7sg6PS
+
+These will be up throughout both days, so i will be able to respond to
+some messages in the calls, but zulip will likely be the most reasonable
+way to communicate.
+
+Outside of hackathon-wide communications, groups themselves are welcome
+to choose whichever virtual meeting platforms they prefer. A [Hackathon
+channel](https://community-bioc.zulipchat.com/#narrow/channel/595963-eurobioc2026-turku-hackathon)
+has been created on the Bioconductor zulip, and contains general topics
+for each project. Participants are welcome to use these to communicate,
+or create additional topics as they decide they need.
 
 ## Location
 
 The event will take place at [BioCity Turku](https://biocityturku.fi/),
-the same venue as EuroBioc2026. Room numbers TBA.
+the same venue as EuroBioc2026. See the [conference travel
+information](https://eurobioc2026.bioconductor.org/pages/travel-information.html#conference-venue)
+for details. Signs for rooms and locations will posted at the venue.
 
-## Cloud compute resources
+## Schedule (Turku local time)
 
-We have credits on [NVIDIA’s brev](https://developer.nvidia.com/brev)
-cloud compute resource for the hackathon. These resources will help
-facilitate development for NVIDIA devices for those of us who don’t
-already have easy access them. A guide for accessing brev and doing
-remote development through RStudio will included here before the event
-begins.
+Monday June 1st:
+
+- 09:00 - 10:30 = Project introductions, team formation, and planning
+- 10:30 - 11:00 = Break
+- 11:00 - 12:30 = Hacking
+- 12:30 - 13:30 = Lunch
+- 13:30 - 15:00 = Hacking
+- 15:00 - 15:30 = Break
+- 15:30 - 17:00 = Hacking
+
+Tuesday June 2nd:
+
+- 09:00 - 10:30 = Update on progress from the previous day, discussion
+  if necessary
+- 10:30 - 11:00 = Break
+- 11:00 - 12:30 = Hacking
+- 12:30 - 13:30 = Lunch
+- 13:30 - 15:00 = Hacking
+- 15:00 - 15:30 = Break
+- 15:30 - 17:00 = Presentations on projects
+
+## Project Links
+
+- [R CUDA bindings project github
+  repo](https://github.com/BiocCodingCollaborations/ACFcuda)
+- [Commandline executables github
+  repo](https://github.com/BiocCodingCollaborations/BiocExecute)
+- [Lightweight container generation github
+  repo](https://github.com/BiocCodingCollaborations/ContainerGen)
+- [Tidyomics project github
+  repo](https://github.com/tidyomics/tidyomicsHackathonTurku2026)
+
+Access to repositories hosted in the BiocCodingCollaborations org will
+be initially managed by Bioc staff, but once projects start project
+leads will be given admin access to just those repos. Some of these
+already have some work associated with them, others may have less.
 
 # Projects
 
@@ -69,8 +125,8 @@ coalesce on a paradigm for access that would fit well within R as a
 language and R as a research ecosystem. Bringing alternative compute
 access into R, particularly with CUDA and NVIDIA devices would improve
 the value of R as a skill for graduates leaving academia, increase the
-throughput and efficiency that research computing in R can accomplish,
-and expand the versatility of R generally.
+throughput and efficiency of research computing in R, and expand the
+versatility of R generally.
 
 The goal of this project is to build infrastructure for developers who
 want their computational tools to be able to leverage available CUDA
@@ -96,8 +152,8 @@ infrastructure. Several
 [packages](https://cran.r-project.org/web/packages/tensorflow/index.html)
 [allow](https://cran.r-project.org/web/packages/keras/index.html)
 [GPU](https://cran.r-project.org/web/packages/h2o4gpu/index.html)
-support through tools they wrap around, but do not facilitate R
-development. Therefore this project will likely be as much about
+support through tools they wrap around, but do not facilitate
+development in R. Therefore this project will likely be as much about
 planning and design as it will be about writing code.
 
 Key considerations:
@@ -172,7 +228,12 @@ Key considerations:
 
 ## Tidyomics / Spatialomics
 
-TBA
+The Tidyomics community has supplied guidance for contributing to their
+list of known bugs and open issues
+[here](https://github.com/tidyomics/tidyomicsHackathonTurku2026), and
+have a [github project
+board](https://github.com/orgs/tidyomics/projects/1/views/1) to help
+with these contributions.
 
 ## General bughunt
 
